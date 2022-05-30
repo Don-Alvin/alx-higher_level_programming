@@ -1,0 +1,3 @@
+#!/bin/bash
+print ("ALX high level language") $PYFILE
+
