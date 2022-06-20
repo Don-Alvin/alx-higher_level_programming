@@ -1,5 +1,5 @@
 # Python - Exceptions
-![Python Logo](../pythonlogo.jpg)
+![Python Logo](https://images.unsplash.com/photo-1649180556628-9ba704115795?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHl0aG9uJTIwbG9nb3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
 
 # [Safe list printing]()
 	Write a function that prints x elements of a list.
